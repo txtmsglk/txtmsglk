@@ -44,7 +44,7 @@ Explore our repositories (coming soon) for integration examples and source code.
 
 - ✉️ Email: [support@txtmsg.lk](mailto:support@txtmsg.lk)
 - 📱 Phone/WhatsApp:
-  - +94 773 559 3048
+  - +94 773 593 048
   - +94 716 170 000
 
 ## 🌐 Website
